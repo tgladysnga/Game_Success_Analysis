@@ -11,4 +11,4 @@ The purpose of this project is to identify patterns that determine whether a gam
 # Project
 | Project Link          | Tools                 | Libraries            |
 |:----------------------:|:---------------------------:|:---------------------------:|
-| [Game_Success Analysis](game_success_analysis) | **Python**, **Jupyter Notebook** | *pandas*, *matplotlib.pyplot*, *scipy* |
+| [Game Success Analysis](game_success_analysis) | **Python**, **Jupyter Notebook** | *pandas*, *matplotlib.pyplot*, *scipy* |
