@@ -1,1 +1,12 @@
-# Game_Success_Analysis
+# Data
+- *Name* - title of game.
+- *Platform* - platform where the game is played.
+- *Year_of_Release* - the year the game was released.
+- *Genre* - the genre of the game.
+- *NA_sales* - game sales in North America (USD million).
+- *EU_sales* - game sales in Europe (USD million).
+- *JP_sales* - game sales in Japan (USD million).
+- *Other_sales* - game sales in other countries (USD million).
+- *Critic_Score* - critic rating of the game (maximum of 100).
+- *User_Score* - user rating of the game (maximum of 10).
+- *Rating* - Entertainment Software Rating Board(ESRB) assigned age and content rating of the game.
